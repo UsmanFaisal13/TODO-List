@@ -6,9 +6,6 @@ export default function Home() {
       <h1 className="lg:text-6xl text-5xl font-Darker_Grotesque">TO-DO List</h1>
       <Submit />
 
-
-
-
     </div>
   );
 }
